@@ -1,0 +1,5 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-b": "python-black:toggle"
+  }
+}

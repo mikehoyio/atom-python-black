@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Python Black",
+          "submenu": [
+            {
+              "label": "Format",
+              "command": "python-black:format"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
