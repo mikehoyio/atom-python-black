@@ -5,7 +5,7 @@
   "description": "Format Python code using Black",
   "keywords": [
   ],
-  "repository": "https://github.com/mikehoyio/python-black",
+  "repository": "https://github.com/mikehoyio/atom-python-black",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
