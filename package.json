@@ -3,7 +3,12 @@
   "main": "./lib/python-black",
   "version": "0.1.0",
   "description": "Format Python code using Black",
-  "keywords": [],
+  "keywords": [
+    "python",
+    "black",
+    "fmt",
+    "format"
+  ],
   "repository": "https://github.com/mikehoyio/atom-python-black",
   "license": "MIT",
   "engines": {
