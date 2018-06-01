@@ -11,7 +11,7 @@ Make sure you have `black` installed and the correct path to binary was set in t
 
 ### Keymap
 
-``"ctrl-alt-c": "python-black:toggle"``
+``"ctrl-alt-c": "python-black:format"``
 
 ### Configuration
 ```
