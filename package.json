@@ -1,15 +1,13 @@
 {
   "name": "python-black",
   "main": "./lib/python-black",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Format Python code using Black",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/mikehoyio/atom-python-black",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
