@@ -18,6 +18,7 @@ Make sure you have `black` installed and the correct path to binary was set in t
 python-black:
   binPath: "black"
   fmtOnSave: true
+  lineLength: 88
 ```
 ### Thanks
 
