@@ -19,6 +19,7 @@ python-black:
   binPath: "black"
   fmtOnSave: true
   lineLength: 88
+  skipStringNormalization: false
 ```
 ### Thanks
 
