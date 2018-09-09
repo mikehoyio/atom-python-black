@@ -9,6 +9,10 @@
             {
               "label": "Format",
               "command": "python-black:format"
+            },
+            {
+              "label": "Toggle Format on Save",
+              "command": "python-black:toggle-format-on-save"
             }
           ]
         }
