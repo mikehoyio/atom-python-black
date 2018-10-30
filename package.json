@@ -1,7 +1,7 @@
 {
   "name": "python-black",
   "main": "./lib/python-black",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "Format Python code using Black",
   "keywords": [
     "python",
