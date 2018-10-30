@@ -20,6 +20,7 @@ python-black:
   fmtOnSave: true
   lineLength: 88
   skipStringNormalization: false
+  skipNumericUnderscoreNormalization: false
 ```
 ### Thanks
 
