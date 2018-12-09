@@ -21,6 +21,7 @@ python-black:
   lineLength: 88
   skipStringNormalization: false
   skipNumericUnderscoreNormalization: false
+  showErrors: ["show", "hide", "flash"] 
 ```
 ### Thanks
 
